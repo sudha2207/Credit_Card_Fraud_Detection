@@ -1,6 +1,6 @@
 # 💳 Credit Card Fraud Detection using Machine Learning
 
-## 📌 Project Overview
+## Project Overview
 
 This project is a Machine Learning-based web application that detects whether a credit card transaction is legitimate or fraudulent.
 
@@ -8,7 +8,7 @@ The model is trained using the Credit Card Fraud Detection dataset and deployed 
 
 ---
 
-## 🚀 Features
+## Features
 
 - Detects fraudulent credit card transactions
 - Random Forest Classifier
@@ -19,7 +19,7 @@ The model is trained using the Credit Card Fraud Detection dataset and deployed 
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python
 - Pandas
@@ -31,7 +31,7 @@ The model is trained using the Credit Card Fraud Detection dataset and deployed 
 
 ---
 
-## 📊 Machine Learning Workflow
+## Machine Learning Workflow
 
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
@@ -44,7 +44,7 @@ The model is trained using the Credit Card Fraud Detection dataset and deployed 
 
 ---
 
-## 📈 Model Performance
+## Model Performance
 
 ### Random Forest + SMOTE
 
@@ -55,7 +55,7 @@ The model is trained using the Credit Card Fraud Detection dataset and deployed 
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Credit_Card_Fraud_Detection/
@@ -69,7 +69,7 @@ Credit_Card_Fraud_Detection/
 
 ---
 
-## ▶️ Run the Project
+## Run the Project
 
 ```bash
 pip install -r requirements.txt
@@ -78,13 +78,13 @@ streamlit run app.py
 
 ---
 
-## 📚 Dataset
+## Dataset
 
 Credit Card Fraud Detection Dataset (Kaggle)
 
 ---
 
-## 👩‍💻 Developer
+## Developer
 
 Sudha
 B.Tech CSE (AI & Deep Learning)
