@@ -84,6 +84,14 @@ Credit Card Fraud Detection Dataset (Kaggle)
 
 ---
 
+---
+
+## Streamlit Link
+
+https://creditcardfrauddetection-lfqrr45dlg3zremcpprfqw.streamlit.app/
+
+---
+
 ## Developer
 
 Sudha
